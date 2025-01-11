@@ -1,0 +1,18 @@
+@media (max-width: 600px) {
+    body {
+      background-color: rgb(203, 206, 207);
+    }
+  }
+
+
+  .ai {
+    width: 400px;
+   height: 300px;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
